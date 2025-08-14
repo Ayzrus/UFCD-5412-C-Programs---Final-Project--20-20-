@@ -11,7 +11,6 @@ A comprehensive C programming educational system developed as part of UFCD 5412,
 - [Usage](#usage)
 - [Program Details](#program-details)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 🎯 Overview
@@ -38,7 +37,7 @@ This project is a menu-driven C application that combines six different programs
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ufcd-5412-test-system.git
+git clone https://github.com/Ayzrus/ufcd-5412-test-system.git
 cd ufcd-5412-test-system
 ```
 
@@ -151,23 +150,13 @@ The currency converter supports 30 international currencies:
 **Asian**: CNY, HKD, IDR, INR, KRW, MYR, PHP, SGD, THB  
 **Others**: BRL, ILS, MXN, NZD, ZAR
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Rodrigo Carvalho - Initial work - [MYGitHub](https://github.com/Ayzrus)
 
 ## 🙏 Acknowledgments
 
