@@ -37,8 +37,8 @@ This project is a menu-driven C application that combines six different programs
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ayzrus/ufcd-5412-test-system.git
-cd ufcd-5412-test-system
+git clone https://github.com/Ayzrus/UFCD-5412-C-Programs---Final-Project--20-20-.git
+cd UFCD-5412-C-Programs---Final-Project--20-20-
 ```
 
 2. Compile the program:
